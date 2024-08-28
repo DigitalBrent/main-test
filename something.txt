@@ -1,1 +1,3 @@
-Hello Jen!
+How to make a plugin for wordpress.
+Define new user role.
+Install on a test site. Your sandbox.
